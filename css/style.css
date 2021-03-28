@@ -1,0 +1,47 @@
+body{ font-family: 'Roboto Mono', monospace;
+  text-align:center
+   }
+
+
+img{ height:300px;
+float:center;
+padding:20px;}
+h1{ font-size:55px;
+margin:0;}
+header p{ font-size:30px;
+}
+ul{
+  list-style-type:none;
+  margin:10px, 0;
+  padding:10px;
+  overflow:hidden;
+  background-color:#333;
+}
+li{display:inline;
+  float:left;
+}
+li a{display:block;
+color:white;
+  font-size:25px;
+text-align:center;
+padding:14px 16px;
+text-decoration:none;}
+li a:hover{
+  color:#f58634;
+}
+
+footer{text-align:left;
+background-color:#333;
+color:white;
+padding:10px;
+margin: 100px 0 0 0;}
+.button-submit{
+  background-color:#7e7474;
+  color:white;
+  width:100px;
+  height:30px;
+  margin:30px
+  }
+.button-submit:hover {
+  color:orange;
+}
